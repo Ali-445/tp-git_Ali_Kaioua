@@ -9,11 +9,11 @@
 
 <img src="images/tpGitP2.png" alt="Texte alternatif" width="400"/>
 
-## 3 - Creation d'une branche 
+## 3 - Passer un premier commit 
 
 <img src="images/tpGitP3.png" alt="Texte alternatif" width="400"/>
 
-## 4 -  Passer un premier commit
+## 4 - Creation d'une branche 
 
 <img src="images/tpGitP3-1.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-2.png" alt="Texte alternatif" width="400"/>

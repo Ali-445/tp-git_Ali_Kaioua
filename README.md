@@ -5,7 +5,7 @@
 <img src="images/tpGitP1.png" alt="Texte alternatif" width="400"/>
 
 
-## 2 - Creation d'une branche & Suivre un fichier & Passer votre premier commit
+## 2 - Suivre un fichier & Creation d'une branche & Passer votre premier commit
 
 
 

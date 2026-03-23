@@ -1,11 +1,11 @@
 # tp-git
-##1-Création et initialisation de votre premier dépôt
+## 1 - Création et initialisation de votre premier dépôt
 
 
 <img src="images/tpGitP1.png" alt="Texte alternatif" width="400"/>
 
 
-##2-Creation d'une branche & Suivre un fichier & Passer votre premier commit
+## 2 - Creation d'une branche & Suivre un fichier & Passer votre premier commit
 
 
 
@@ -21,7 +21,7 @@
 <img src="images/tpGitP3-8.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP3-9.png" alt="Texte alternatif" width="400"/>
 
-##3-Pull request
+## 3 - Pull request
 
 <img src="images/tpGitP4.png" alt="Texte alternatif" width="400"/>
 <img src="images/tpGitP5.png" alt="Texte alternatif" width="400"/>

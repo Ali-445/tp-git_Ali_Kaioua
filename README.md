@@ -5,9 +5,6 @@
 
 <br><br>
 
-<img width="1445" height="503" alt="tpGitP2" src="https://github.com/user-attachments/assets/d5240e2c-b702-495e-9afa-7ccecf557099" />
-
-<br><br>
 
 <img width="1454" height="494" alt="tpGitP3-1" src="https://github.com/user-attachments/assets/b93dd5ad-9236-4d2a-a00e-f157c25a5dea" />
 
